@@ -1,7 +1,7 @@
 > ## About Me
   * <em>20 Year Old
   * <em>B.Tech third year CSE Student at [ITER Bbubaneshwar](https://www.soa.ac.in/iter).
-  * <em>Pursuing BlockChain ans Software Development
+  * <em>Pursuing BlockChain and Software Development
   * <em>Gamer and Otaku
  <br>
  <br>
